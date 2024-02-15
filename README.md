@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello There! 👋
+
+- 👋 Hi, I’m Annem Sabah!
+- 💄 I'm Platform Engineer @ Charlotte Tilbury Beauty!
+- 👀 I’m interested in Developer Experience in the Platform engineering space
+- 🌱 Currently brushing up on my network knowledge! 
+- 📫 How to reach me: find me on Linkedin by searching my name or on Instagram @annemthecoder
+- 😄 Pronouns: She/Her 
+- 😬 Fun fact: I skydived 5 years ago, have a video of the whole thing where I'm covering my eyes with my hands. 
 
 <!--
 **asabahshah/asabahshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
