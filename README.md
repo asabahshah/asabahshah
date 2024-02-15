@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Annem Sabah!
 - 💄 I'm Platform Engineer @ Charlotte Tilbury Beauty!
-- 👀 I’m interested in Developer Experience in the Platform engineering space
+- 👀 I’m interested in DevEx (developer experience)
 - 🌱 Currently brushing up on my network knowledge! 
 - 📫 How to reach me: find me on Linkedin by searching my name or on Instagram @annemthecoder
 - 😄 Pronouns: She/Her 
