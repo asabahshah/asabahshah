@@ -1,10 +1,8 @@
 ### Hello There! 👋
 
 - 👋 Hi, I’m Annem Sabah!
-- 💄 I'm Platform Engineer @ Charlotte Tilbury Beauty!
-- 👀 I’m interested in DevEx (developer experience)
-- 😄 Pronouns: She/Her. 
-- 😬 Fun fact: I skydived 5 years ago, have a video of the whole thing where I'm covering my eyes with my hands. 
+- 💄 I'm Platform Engineer @ Charlotte Tilbury Beauty. 
+- 😄 Pronouns: She/Her.  
 
 <!--
 **asabahshah/asabahshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
